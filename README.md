@@ -1,6 +1,6 @@
-# Hello, new friend!
+# HELLO, NEW FRIEND!
 
-<img src="assets/profile.gif" width="180" alt="Profile animation">
+<img src="assets/profile.gif" width="260" alt="Profile animation">
 
 PhD student at Beijing University of Posts and Telecommunications & Zhongguancun Academy.
 
