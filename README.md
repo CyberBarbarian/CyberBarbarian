@@ -1,14 +1,16 @@
 <img align="right" src="assets/profile.gif" width="180" alt="Profile animation">
 
-# Zikang Li
+### Hello, new friend!
 
-PhD student at Beijing University of Posts and Telecommunications & Zhongguancun Academy.
+I'm **Zikang Li**, a PhD student at Beijing University of Posts and Telecommunications & Zhongguancun Academy.
 
 I work on reinforcement learning, multi-agent reinforcement learning, and game AI, with a focus on robust evaluation, out-of-distribution opponent generalization, and agent behavior in complex games.
 
 [![Homepage](https://img.shields.io/badge/homepage-me.alltroll.net-0a4f86)](https://me.alltroll.net)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-536172)](https://scholar.google.com/citations?hl=zh-CN&user=a2SSJg8AAAAJ)
 [![Email](https://img.shields.io/badge/email-alltroll%40outlook.com-2f7d64)](mailto:alltroll@outlook.com)
+
+<br clear="right">
 
 ## Current Focus
 
