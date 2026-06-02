@@ -1,5 +1,7 @@
 # Zikang Li
 
+<!-- GitHub profile README -->
+
 PhD student at Beijing University of Posts and Telecommunications & Zhongguancun Academy.
 
 I work on reinforcement learning, multi-agent reinforcement learning, and game AI, with a focus on robust evaluation, out-of-distribution opponent generalization, and agent behavior in complex game environments.
